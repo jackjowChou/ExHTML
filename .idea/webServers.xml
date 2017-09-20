@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bc382e66-193b-41fe-8cea-61032caa270d" name="jack web" url="http://120.108.117.245/~jackjow/Demo20170920">
+        <fileTransfer host="120.108.117.245" port="22" rootFolder="/home/jackjow/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
